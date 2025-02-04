@@ -1,14 +1,14 @@
 { "commands": [
 { "hdr": "7A0", "rax": "7A8", "fcm1": true, "cmd": {"22": "C00B"}, "freq": 15,
   "signals": [
-    {"id": "Optima_TP_FL", "path": "Tires", "fmt": {"bix": 56, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Front left tire pressure",  "suggestedMetric": "frontLeftTirePressure"},
-    {"id": "Optima_TP_FL_TEMP", "path": "Tires", "fmt": {"bix": 64, "len": 8, "unit": "°C" }, "name": "Front left tire temperature"},
-    {"id": "Optima_TP_FR", "path": "Tires", "fmt": {"bix": 88, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"},
-    {"id": "Optima_TP_FR_TEMP", "path": "Tires", "fmt": {"bix": 96, "len": 8, "unit": "°C" }, "name": "Front right tire temperature"},
-    {"id": "Optima_TP_RR", "path": "Tires", "fmt": {"bix": 120, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Rear right tire pressure",  "suggestedMetric": "rearRightTirePressure"},
-    {"id": "Optima_TP_RR_TEMP", "path": "Tires", "fmt": {"bix": 128, "len": 8, "unit": "°C" }, "name": "Rear right tire temperature"},
-    {"id": "Optima_TP_RL", "path": "Tires", "fmt": {"bix": 152, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Rear left tire pressure",   "suggestedMetric": "rearLeftTirePressure"},
-    {"id": "Optima_TP_RL_TEMP", "path": "Tires", "fmt": {"bix": 160, "len": 8, "unit": "°C" }, "name": "Rear left tire temperature"}
+    {"id": "Optima_TP_FL", "path": "Tires", "fmt": {"bix": 112, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Front left tire pressure",  "suggestedMetric": "frontLeftTirePressure"},
+    {"id": "Optima_TP_FL_TEMP", "path": "Tires", "fmt": {"bix": 120, "len": 8, "unit": "°C" }, "name": "Front left tire temperature"},
+    {"id": "Optima_TP_FR", "path": "Tires", "fmt": {"bix": 72, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"},
+    {"id": "Optima_TP_FR_TEMP", "path": "Tires", "fmt": {"bix": 80, "len": 8, "unit": "°C" }, "name": "Front right tire temperature"},
+    {"id": "Optima_TP_RR", "path": "Tires", "fmt": {"bix": 104, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Rear right tire pressure",  "suggestedMetric": "rearRightTirePressure"},
+    {"id": "Optima_TP_RR_TEMP", "path": "Tires", "fmt": {"bix": 112, "len": 8, "unit": "°C" }, "name": "Rear right tire temperature"},
+    {"id": "Optima_TP_RL", "path": "Tires", "fmt": {"bix": 136, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Rear left tire pressure",   "suggestedMetric": "rearLeftTirePressure"},
+    {"id": "Optima_TP_RL_TEMP", "path": "Tires", "fmt": {"bix": 144, "len": 8, "unit": "°C" }, "name": "Rear left tire temperature"}
   ]
 }]
 }
