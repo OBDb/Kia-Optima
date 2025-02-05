@@ -4,6 +4,7 @@
     {"id": "Optima_TP_FL", "path": "Tires", "fmt": {"bix": 32,  "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Front left tire pressure",  "suggestedMetric": "frontLeftTirePressure"},
     {"id": "Optima_TP_FR", "path": "Tires", "fmt": {"bix": 64,  "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Front right tire pressure", "suggestedMetric": "frontRightTirePressure"},
     {"id": "Optima_TP_RL", "path": "Tires", "fmt": {"bix": 96,  "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Rear left tire pressure",   "suggestedMetric": "rearLeftTirePressure"},
-    {"id": "Optima_TP_RR", "path": "Tires", "fmt": {"bix": 128, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Rear right tire pressure",  "suggestedMetric": "rearRightTirePressure"}]
-}]
+    {"id": "Optima_TP_RR", "path": "Tires", "fmt": {"bix": 128, "len": 8, "max": 51, "div": 5, "unit": "psi" }, "name": "Rear right tire pressure",  "suggestedMetric": "rearRightTirePressure"}
+  ]}
+]
 }
