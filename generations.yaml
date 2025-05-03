@@ -1,0 +1,20 @@
+generations:
+  - name: "First Generation (MS)"
+    start_year: 2000
+    end_year: 2005
+    description: "The original Kia Optima (sold as the Magentis in some markets) was Kia's first entry into the mid-size sedan segment. Based on a platform shared with the Hyundai Sonata, it featured conservative styling typical of early 2000s Korean vehicles. Available with 2.4L four-cylinder and 2.5L V6 engine options depending on the market, paired with automatic or manual transmissions. The interior was spacious but featured relatively basic materials and design, prioritizing value over refinement. This generation established Kia in the mid-size sedan segment, though primarily as a budget alternative to established competitors like the Toyota Camry and Honda Accord."
+
+  - name: "Second Generation (MG)"
+    start_year: 2005
+    end_year: 2010
+    description: "The second-generation Optima featured more distinctive styling while remaining relatively conservative compared to later models. Built on an improved platform shared with the Hyundai Sonata, it offered better handling and refinement. Engine options typically included 2.4L four-cylinder and 2.7L V6 units with improved efficiency and performance. The interior saw enhancements in materials, design, and feature content, reflecting Kia's push for improved quality under the leadership of Hyundai Motor Group. This generation continued to position the Optima as a value-oriented mid-size sedan, with gradually improving reputation but still not challenging segment leaders in terms of design or desirability."
+
+  - name: "Third Generation (TF)"
+    start_year: 2010
+    end_year: 2015
+    description: "The third-generation Optima represented a revolutionary change in design and market positioning. Styled under the direction of Peter Schreyer, it featured bold, European-influenced design with a sleek, coupe-like roofline and distinctive details that set it apart from mainstream competitors. Built on an all-new platform, it offered improved dynamics, refinement, and safety. Engine options in most markets included a 2.4L four-cylinder and a turbocharged 2.0L four-cylinder offering V6-like performance with better efficiency, plus hybrid variants introduced later. The interior featured a driver-focused cockpit with premium materials and advanced technology for its time. This generation transformed the Optima's image from practical transportation to a stylish, desirable mid-size sedan that could compete with established market leaders on more than just price, winning numerous design awards and dramatically increasing Kia's market share in the segment."
+
+  - name: "Fourth Generation (JF)"
+    start_year: 2015
+    end_year: 2020
+    description: "The fourth-generation Optima evolved the bold styling of its predecessor with more refined execution and upscale details. Built on an updated platform with increased use of high-strength steel, it offered improved structural rigidity, safety, and NVH characteristics. Engine options varied by market but typically included 2.4L and 2.0L turbocharged four-cylinder units, plus hybrid and plug-in hybrid variants. The interior featured improved materials, design, and technology, with available features like a panoramic sunroof, ventilated seats, and advanced driver assistance systems including adaptive cruise control and autonomous emergency braking. This generation maintained the Optima's position as a stylish alternative in the mid-size sedan segment, though market preference was increasingly shifting toward SUVs. In 2020, Kia rebranded the Optima as the K5 globally as part of a naming strategy shift, marking the end of the Optima nameplate after 20 years."
