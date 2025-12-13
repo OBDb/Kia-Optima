@@ -71,3 +71,5 @@ supported_commands_by_ecu:
 unsupported_commands_by_ecu:
   "7A0":
   - 7A0.7A8.22C00B|fc=1:Optima_TP_FL,Optima_TP_FR,Optima_TP_RL,Optima_TP_RR
+  "7E1":
+  - 7E1.7E9.0131
