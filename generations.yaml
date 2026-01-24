@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Kia_K5"
+
 generations:
   - name: "First Generation (MS)"
     start_year: 2000
@@ -18,3 +21,8 @@ generations:
     start_year: 2015
     end_year: 2020
     description: "The fourth-generation Optima evolved the bold styling of its predecessor with more refined execution and upscale details. Built on an updated platform with increased use of high-strength steel, it offered improved structural rigidity, safety, and NVH characteristics. Engine options varied by market but typically included 2.4L and 2.0L turbocharged four-cylinder units, plus hybrid and plug-in hybrid variants. The interior featured improved materials, design, and technology, with available features like a panoramic sunroof, ventilated seats, and advanced driver assistance systems including adaptive cruise control and autonomous emergency braking. This generation maintained the Optima's position as a stylish alternative in the mid-size sedan segment, though market preference was increasingly shifting toward SUVs. In 2020, Kia rebranded the Optima as the K5 globally as part of a naming strategy shift, marking the end of the Optima nameplate after 20 years."
+
+  - name: "Fifth Generation (DL3)"
+    start_year: 2019
+    end_year: null
+    description: "The fifth-generation K5, launched in 2019 with North American market introduction in 2021, represents Kia's complete redesign of the mid-size sedan under the new K5 nameplate. Built on the Hyundai-Kia N3 platform, it featured a bold, sophisticated design that moved away from the Optima's long-standing visual identity. Engine options typically included a 1.6L turbocharged four-cylinder as the base engine, with an optional 2.5L turbocharged four-cylinder producing 290 hp in performance models. The new platform provided improved handling, safety features, and technology integration. All-wheel drive became available for the first time in the K5's history. This generation marked Kia's strategic shift in its global naming convention, positioning the K5 as a distinct product in the sedan segment while SUV sales continued to dominate the market. Production is ongoing with the fifth generation continuing as the sole representation of Kia's mid-size sedan offering."
