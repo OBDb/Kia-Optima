@@ -41,9 +41,11 @@ supported_commands_by_ecu:
   - 7E0.0104:LOAD_PCT
   - 7E0.0105:ECT
   - 7E0.0106:SHRTFT1
+  - 7E0.0107:LONGFT1
   - 7E0.010B:MAP
   - 7E0.010C:RPM
   - 7E0.010D:VSS
+  - 7E0.010E:SPARKADV
   - 7E0.010F:IAT
   - 7E0.011C:OBDSUP
   - 7E0.0121:MIL_DIST
@@ -64,6 +66,9 @@ supported_commands_by_ecu:
   - 7E0.014C:TAC_PCT
   - 7E0.014D:MIL_TIME
   - 7E0.014E:CLR_TIME
+  - 7E0.0151:FUEL_TYP
+  - 7E0.0155:STSO2FT1
+  - 7E0.0156:LGSO2FT1
   - 7E0.0159:FRP_ABS
 unsupported_commands_by_ecu:
   "7A0":
