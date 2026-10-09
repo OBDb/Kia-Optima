@@ -71,15 +71,15 @@ test_cases:
     7A8220100AE3E0100B3
     7A8233F0100AAAAAAAA
 - expected_values:
-    Optima_TP_FL: 35.6
-    Optima_TP_FR: 37.6
-    Optima_TP_RL: 34.8
-    Optima_TP_RR: 35.4
+    Optima_TP_FL: 35.4
+    Optima_TP_FR: 37.8
+    Optima_TP_RL: 35
+    Optima_TP_RR: 34.6
   response: |-
     7A8101762C00BFFFF00
-    7A82100B2400100BC3F
-    7A8220100AE3E0100B1
-    7A8233F0100AAAAAAAA
+    7A82100B1400100BD40
+    7A8220100AF400100AD
+    7A823400100AAAAAAAA
 - expected_values:
     Optima_TP_FL: 35.6
     Optima_TP_FR: 42
@@ -113,13 +113,13 @@ test_cases:
 - expected_values:
     Optima_TP_FL: 38.2
     Optima_TP_FR: 41
-    Optima_TP_RL: 36.4
-    Optima_TP_RR: 37.2
+    Optima_TP_RL: 36.8
+    Optima_TP_RR: 36.4
   response: |-
     7A8101762C00BFFFF00
-    7A82100BF500100CD54
-    7A8220100B6480100BA
-    7A823480100AAAAAAAA
+    7A82100BF500100CD52
+    7A8220100B84A0100B6
+    7A8234A0100AAAAAAAA
 - expected_values:
     Optima_TP_FL: 38.4
     Optima_TP_FR: 40.8
