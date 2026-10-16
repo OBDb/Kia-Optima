@@ -154,6 +154,16 @@ test_cases:
     Optima_TP_FL: 40.6
     Optima_TP_FR: 42.2
     Optima_TP_RL: 40.8
+    Optima_TP_RR: 40.4
+  response: |-
+    7A8101762C00BFFFF00
+    7A82100CB560100D358
+    7A8220100CC500100CA
+    7A8234A0200AAAAAAAA
+- expected_values:
+    Optima_TP_FL: 40.6
+    Optima_TP_FR: 42.2
+    Optima_TP_RL: 40.8
     Optima_TP_RR: 42.4
   response: |-
     7A8101762C00BFFFF00
