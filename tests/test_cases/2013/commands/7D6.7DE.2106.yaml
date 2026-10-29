@@ -1,0 +1,28 @@
+command_id: 7D6.7DE.2106
+test_cases:
+- expected_values:
+    OPTIMA_TP_1: 29.2
+    OPTIMA_TP_2: 29.2
+    OPTIMA_TP_3: 28
+    OPTIMA_TP_4: 29.8
+    OPTIMA_TT_1: 35
+    OPTIMA_TT_2: 29
+    OPTIMA_TT_3: 33
+    OPTIMA_TT_4: 40
+  response: |-
+    7DE1012610692550000
+    7DE21924F00008C5300
+    7DE2200955A0000FFFF
+- expected_values:
+    OPTIMA_TP_1: 30.2
+    OPTIMA_TP_2: 30.6
+    OPTIMA_TP_3: 29.4
+    OPTIMA_TP_4: 29.8
+    OPTIMA_TT_1: 39
+    OPTIMA_TT_2: 38
+    OPTIMA_TT_3: 40
+    OPTIMA_TT_4: 37
+  response: |-
+    7DE1012610697590100
+    7DE2199580100935A01
+    7DE220095570100FFFF
