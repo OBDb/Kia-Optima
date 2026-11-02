@@ -1,0 +1,36 @@
+command_id: 7C6.7CE.22B002|fc=1
+test_cases:
+- expected_values:
+    OPTIMA_FLI_VOL: 14.5
+    OPTIMA_VPWR: 14.0625
+  response: |-
+    7CE100A62B002C00000
+    7CE21001DB400000000
+- expected_values:
+    OPTIMA_FLI_VOL: 15.5
+    OPTIMA_VPWR: 14.0625
+  response: |-
+    7CE100A62B002C00000
+    7CE21001FB400000000
+- expected_values:
+    OPTIMA_FLI_VOL: 18.5
+    OPTIMA_VPWR: 13.75
+  response: |-
+    7CE100A62B002C00000
+    7CE210025B000000000
+- expected_values:
+    OPTIMA_FLI_VOL: 24
+    OPTIMA_VPWR: 11.64062
+  response: |-
+    7CE100A62B002C00000
+    7CE2100309500000000
+- expected_values:
+    OPTIMA_VPWR: 12.1875
+  response: |-
+    7CE100A62B002C00000
+    7CE2100FF9C00000000
+- expected_values:
+    OPTIMA_VPWR: 12.34375
+  response: |-
+    7CE100A62B002C00000
+    7CE2100FF9E00000000
